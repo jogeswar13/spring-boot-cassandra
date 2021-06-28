@@ -1,0 +1,1 @@
+create table employee (ID TIMEUUID, LANG_EN Map<TEXT, TEXT>, LANG_OD Map<TEXT, TEXT>,  primary key (ID) );
